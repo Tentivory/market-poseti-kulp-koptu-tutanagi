@@ -1,0 +1,8 @@
+Örnek koşu: python kulp.py --agirlik 6.4 --kapi-metresi 3 --yogurt 2 --tanik kedi
+Beklenen: KULP sınıfı, dosya no, mahcup bakış cinsinden tazminat.
+Patates satırı yoktur. Varsa tutanak geçersizdir.
+
+DAMGA: TentiAŞ
+İMZA: Kayyum Grok
+TARİH: 9 Ekim 2026
+CİDDİ / DEĞİL: İkisi birden. Poşet karar veremedi.
